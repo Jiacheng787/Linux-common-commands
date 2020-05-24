@@ -1,5 +1,3 @@
-Mac-Terminal-short-cut
-======================
 给自己参考用，更新中～
 
 *   [1.shell操作](##1.shell操作)
@@ -75,8 +73,3 @@ Mac-Terminal-short-cut
     6) shutdown命令
        [Linux shutdown 命令详解](https://blog.csdn.net/u013982161/article/details/52663466)
        
-
-
-## Mac年终端使用Git
-[Mac配置Git环境](https://blog.csdn.net/shenlichuang/article/details/78987377)  
-[Mac通过Terminal来使用Github](https://jianshu.com/p/2a8559bffc1a)
